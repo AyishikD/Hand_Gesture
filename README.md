@@ -28,14 +28,14 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/HandGestureVolumeControl.git
-   cd HandGestureVolumeControl
+   git clone https://github.com/YourUsername/Hand_Gesture.git
+   cd Hand_Gesture
    ```
 
 2. Run the Python script:
 
    ```bash
-   python hand_gesture_volume_control.py
+   python Hand_gesture.py
    ```
 
 3. Follow the on-screen instructions to control the volume with hand gestures.
@@ -58,7 +58,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU 3.0 License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Replace `https://github.com/YourUsername/HandGestureVolumeControl.git` with the actual URL of your GitHub repository. You can add more sections and details as needed for your project.
